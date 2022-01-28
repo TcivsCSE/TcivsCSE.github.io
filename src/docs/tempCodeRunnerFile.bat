@@ -1,0 +1,1 @@
+ocs\.vuepress\dist  .\docs  /e /d /y  && git add -A && git commit -m"%var%"&& git push -u origin main"
